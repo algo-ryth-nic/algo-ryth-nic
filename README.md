@@ -25,7 +25,7 @@
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=algo-ryth-nic.algo-ryth-nic)
 
-- 🌱 I’m currently learning Hadoop,Clustering, Agile Development, Typescript
+- 🌱 I’m currently learning Hadoop,Clustering, Agile Development
 - 📫 How to reach me:
   - 💬 Discord: algorythnic#6098
   - 🐦 [Twitter](https://twitter.com/algorythnic)
