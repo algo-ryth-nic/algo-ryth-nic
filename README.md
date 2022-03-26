@@ -12,20 +12,12 @@
             </p>
         </td>
     </tr>
-    <tr>
-        <td colspan="2">
-            <p align="center">
-                <img src="https://activity-graph.herokuapp.com/graph?username=algo-ryth-nic&show_icons=true&count_private=true&theme=gotham&area=true" alt="">
-            </p>
-        </td>
-    </tr>
 </table>
 
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=bn1xj7tj0ibazksyptvxrnm62&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bn1xj7tj0ibazksyptvxrnm62&redirect=true)
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=algo-ryth-nic.algo-ryth-nic)
 
-- 🌱 I’m currently learning Clustering, Agile Development
 - 📫 How to reach me:
   - 💬 Discord: algorythnic#6098
   - 🐦 [Twitter](https://twitter.com/algorythnic)
