@@ -3,13 +3,10 @@
 <table style="border:none;">
     <tr>
         <td>
-            <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=algo-ryth-nic&show_icons=true&theme=merko&count_private=true&hide_border=true" alt=""></td>
-            </p>
+                <img src="https://github-readme-stats.vercel.app/api?username=algo-ryth-nic&show_icons=true&theme=merko&count_private=true&hide_border=true" alt=""> 
+        </td>
         <td>
-            <p align="center">
                 <img src="http://github-readme-streak-stats.herokuapp.com?user=algo-ryth-nic&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="">
-            </p>
         </td>
     </tr>
 </table>
