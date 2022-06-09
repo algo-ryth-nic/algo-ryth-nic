@@ -1,4 +1,4 @@
-### Hello, <img src="https://i.imgur.com/pM7mpZd.gif" width="30px">
+### Hello, <img src="https://i.imgur.com/pM7mpZd.gif" height="25px">
 
 <table style="border:none;">
     <tr>
