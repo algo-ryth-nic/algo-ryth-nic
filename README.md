@@ -1,6 +1,5 @@
 ### Hello, <img src="https://i.imgur.com/pM7mpZd.gif" height="25px">
 
-<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=algo-ryth-nic.algo-ryth-nic)
 
 <!--
